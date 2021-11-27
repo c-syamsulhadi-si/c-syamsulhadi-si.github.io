@@ -1,0 +1,3 @@
+Harus terhubung keinternet agar tampilan lebi maksimal
+karena ada 1 library yaitu fontawesome menggunakan cdn 
+dan lokasi menggunakan rest API google maps
